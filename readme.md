@@ -16,7 +16,7 @@ This is a comprehensive e-learning platform built using the MERN (MongoDB, Expre
 1. Clone the repository: 
 
 ```
-git clone https://github.com/deafSpy/E-Learning
+git clone https://github.com/thundermage117/e-learning
 ```
 
 2. Navigate to the project directory: 
